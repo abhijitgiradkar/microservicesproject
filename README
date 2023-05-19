@@ -1,2 +1,2 @@
-Create container of mysql with user mysql and pass is password to start order and inventory service
+Create container of mysql with user: mysql & pass: password to start order and inventory service
 Create mongodb container to start product service
